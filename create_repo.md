@@ -1,4 +1,4 @@
-# Stworzenie repozytorium zdalnego na GitHub
+# Stworzenie repozytorium zdalnego na GitHub, sklonowanie oraz autoryzacja
 
 Po zalogowaniu się na konto GitHub należy przejść do formularza tworzenia nowego repozytorium i uzupełnić pola:
 
@@ -17,3 +17,7 @@ Po utworzeniu repozytorium otrzymamy link do niego oraz informacje pomocnicze ja
 ![Po utworzeniu repozytorium](static/create_repo.md/after_create_repository.png)
 
 Należy skopiować adres https. Dla powyższego przykładu jest to: <https://github.com/msosnowskiwsb/java_intellij_project.git>.
+
+TODO: klonujemy
+
+TODO: autoryzujemy

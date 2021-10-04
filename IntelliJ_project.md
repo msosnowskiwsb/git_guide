@@ -1,10 +1,10 @@
-# Wrzucenie projektu IntelliJ do repozytorium GIT
+# Stworzenie projektu Java w IntelliJ i udostępnienie na GitHub
 
 W tym pliku znajdziesz informację jak utworzyć nowy projekt Java w IntelliJ oraz wrzucić go na repozytorium zdalnego GitHub.
 
 ## Stworzenie nowego projektu Java
 
-Po uruchomieniu IntelliJ wybieramy opcję `Create New Project':
+Po uruchomieniu IntelliJ wybieramy opcję `New Project`:
 
 ![Okno startowe IntelliJ](static/IntelliJ_project/start_window_intelliJ.png)
 
